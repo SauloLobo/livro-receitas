@@ -7,3 +7,5 @@ Olá! Bem vindo ao meu livro de receitas
 - Fricassê de Frango
 - Yakisoba
 - Pão com ovo
+- Hamburguer caseiro
+- Pão de queijo
