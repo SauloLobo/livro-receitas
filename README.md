@@ -5,3 +5,5 @@ Olá! Bem vindo ao meu livro de receitas
 - Strogonoff de Frango
 - Pavê
 - Fricassê de Frango
+- Yakisoba
+- Pão com ovo
